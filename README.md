@@ -20,7 +20,7 @@
 
 ---
 
-### About Me
+### 👨‍💻 About Me
 
 I am a dedicated Computer Engineer and Artificial Intelligence Researcher focused on building intelligent systems and solving complex problems through data. My core expertise lies in developing robust Machine Learning models, architecting Deep Neural Networks, and applying Computer Vision techniques to real-world challenges.
 
@@ -31,7 +31,7 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 
 ---
 
-### Tech Stack & Skills
+### 🚀 Tech Stack & Skills
 
 | Property | Data |
 | :--- | :--- |
@@ -43,27 +43,7 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoroushSoleimani&theme=nord&margin-w=15&column=7&no-frame=true&no-bg=true)](https://github.com/SoroushSoleimani)
-
-</div>
-
----
-
-### Activity & Contributions
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoroushSoleimani&theme=nord&bg_color=ffffff&hide_border=true&color=7B1FA2&line=7B1FA2&point=2196f3)](https://github.com/SoroushSoleimani)
-
-</div>
-
----
-
-### GitHub Stats & Metrics
+### 📊 GitHub Stats & Metrics
 
 <div align="center">
 
@@ -78,11 +58,22 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 
 ---
 
-### Connect with Me
+### 🟩 3D Contribution Calendar
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
+</div>
+
+---
+
+### 🤝 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/soroushsoleimani1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:soroushsoleimani.1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
