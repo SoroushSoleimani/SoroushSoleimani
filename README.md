@@ -20,7 +20,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a dedicated Computer Engineer and Artificial Intelligence Researcher focused on building intelligent systems and solving complex problems through data. My core expertise lies in developing robust Machine Learning models, architecting Deep Neural Networks, and applying Computer Vision techniques to real-world challenges.
 
@@ -64,7 +64,7 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
   <a href="https://www.linkedin.com/in/soroushsoleimani1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/soroushsoleimani">
+  <a href="https://t.me/soroushsoleimani1">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://instagram.com/soroushsoleimani.1">
