@@ -31,7 +31,7 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 
 ---
 
-### 🚀 Tech Stack & Skills
+###  Tech Stack & Skills
 
 | Property | Data |
 | :--- | :--- |
@@ -39,26 +39,34 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 | **Domain Knowledge** | <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square" /> <img src="https://img.shields.io/badge/Deep%20Learning-000000?style=flat-square" /> <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square" /> <img src="https://img.shields.io/badge/Data%20Science-20BEFF?style=flat-square" /> |
 | **ML / DL Frameworks**| <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> |
 | **Data Handling** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=pandas&logoColor=black" /> <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square&logo=python&logoColor=white" /> |
-| **Tools & Infrastructure**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> |
+| **Tools & Infrastructure**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> |
 
 ---
 
-### 📊 GitHub Stats & Metrics
+###  Activity & Contributions Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoroushSoleimani&show_icons=true&theme=nord&hide_border=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushSoleimani&theme=nord&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushSoleimani&layout=compact&theme=nord&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoroushSoleimani&theme=nord&bg_color=ffffff&hide_border=true&color=7B1FA2&line=7B1FA2&point=2196f3" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ---
 
-### 🤝 Connect with Me
+###  GitHub Stats & Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushSoleimani&theme=nord&hide_border=false" alt="GitHub Streak" width="48%" />
+
+</div>
+
+ <br/>
+
+<!-- <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SoroushSoleimani&theme=nord" alt="Top Languages" width="48%" />
+</div> -->
+
+---
+
+###  Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/soroushsoleimani1/">
