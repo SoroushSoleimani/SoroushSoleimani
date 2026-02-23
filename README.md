@@ -46,7 +46,9 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SoroushSoleimani&theme=nord&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Soroush's GitHub Trophies" />
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SoroushSoleimani&theme=nord&margin-w=15&column=7&no-frame=true&no-bg=true)](https://github.com/SoroushSoleimani)
+
 </div>
 
 ---
@@ -54,7 +56,9 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 ### Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SoroushSoleimani&theme=nord&bg_color=ffffff&hide_border=true&color=7B1FA2&line=7B1FA2&point=2196f3" alt="GitHub Activity Graph" width="100%"/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SoroushSoleimani&theme=nord&bg_color=ffffff&hide_border=true&color=7B1FA2&line=7B1FA2&point=2196f3)](https://github.com/SoroushSoleimani)
+
 </div>
 
 ---
@@ -62,14 +66,14 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 ### GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoroushSoleimani&show_icons=true&theme=nord&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushSoleimani&theme=nord&hide_border=false" alt="GitHub Streak" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoroushSoleimani&show_icons=true&theme=nord&hide_border=false)](https://github.com/SoroushSoleimani)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoroushSoleimani&theme=nord&hide_border=false)](https://github.com/SoroushSoleimani)
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushSoleimani&layout=compact&theme=nord&hide_border=false&cache_seconds=86400" alt="Top Languages" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushSoleimani&layout=compact&theme=nord&hide_border=false)](https://github.com/SoroushSoleimani)
+
 </div>
 
 ---
