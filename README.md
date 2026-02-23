@@ -46,22 +46,14 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoroushSoleimani&show_icons=true&theme=nord&hide_border=false)](https://github.com/SoroushSoleimani)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoroushSoleimani&theme=nord&hide_border=false)](https://github.com/SoroushSoleimani)
+  <img src="https://github-readme-stats.vercel.app/api?username=SoroushSoleimani&show_icons=true&theme=nord&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoroushSoleimani&theme=nord&hide_border=false" alt="GitHub Streak" />
+</div>
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushSoleimani&layout=compact&theme=nord&hide_border=false)](https://github.com/SoroushSoleimani)
-
-</div>
-
----
-
-### 🟩 3D Contribution Calendar
-
 <div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushSoleimani&layout=compact&theme=nord&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
@@ -71,6 +63,12 @@ I am a dedicated Computer Engineer and Artificial Intelligence Researcher focuse
 <div align="center">
   <a href="https://www.linkedin.com/in/soroushsoleimani1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/soroushsoleimani">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://instagram.com/soroushsoleimani.1">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:soroushsoleimani.1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
